@@ -2,10 +2,8 @@ import streamlit as st
 
 st.set_page_config(page_title="Welcome Page", page_icon="👋")
 
-st.title("👋 Welcome to My Streamlit App")
-st.subheader("Built by Hemz 💻")
-
-st.write("This is my first Streamlit application.")
+st.title("👋 Welcome to DataScience Session")
+st.subheader("Built by GUVi 💻")
 
 st.markdown("---")
 
