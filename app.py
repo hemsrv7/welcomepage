@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.set_page_config(page_title="Welcome Page", page_icon="👋")
+st.set_page_config(page_title="Welcome Page")
 
-st.title("👋 Welcome to GUVi Datascience Course")
+st.title("Welcome to GUVi Datascience Course")
 
 st.markdown("---")
 
